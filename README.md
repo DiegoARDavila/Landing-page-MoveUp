@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pixel Perfect Screenshot Replay
 
 Implement exactly the screenshot and nothing else
@@ -22,3 +23,6 @@ cd <repository-name>
 npm i
 npm run dev
 ```
+=======
+# Landing-page-MoveUp
+>>>>>>> 35eab2f78bd4201b50adf76a84d9ea2751b534cc
